@@ -1,0 +1,5 @@
+Credentials cache: API:8C1FB0AD-22A0-43C5-A19C-818DA293A840
+        Principal: ccardozo@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep  2 16:57:10 2019  Sep  3 02:56:59 2019  krbtgt/42MADRID.COM@42MADRID.COM
